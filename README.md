@@ -1,5 +1,5 @@
 <h1 align="center">🍀Hello! I'm Lan Huong <img src="https://media1.giphy.com/media/pr1dbVONbGeVvSiECh/giphy.webp?cid=ecf05e47s70y2hhcgoo3ijkoxmz1lxo98ulknro0nr79u6u5&ep=v1_stickers_search&rid=giphy.webp&ct=s" width="50"></h1>
-<h3 align="center">🍁A pice developer from Vietnam 🇻🇳<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="center">🍁A pice developer from Vietnam<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanhuongsocute&label=Profile%20views&color=0e75b6&style=flat" alt="lanhuongsocute" /> </p>
 
 ## <img src="https://media4.giphy.com/media/oebD5alsVBFKg/200w.webp" width="50"> Connect with me:
