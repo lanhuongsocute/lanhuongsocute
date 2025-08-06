@@ -11,6 +11,13 @@
 <a href="https://instagram.com/youngbeelucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeriko" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+  <a href="https://buymeacoffee.com/mimibeoxu" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+  </a>
+</p>
+
+
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> What I'm doing:
 
 ---
