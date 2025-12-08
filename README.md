@@ -70,10 +70,11 @@
 <p align="center">
   <img
     height="200"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lanhuongsocute&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=151515"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lanhuongsocute&theme=gruvbox"
     alt="lanhuongsocute's GitHub Stats"
   />
 </p>
+
 
 ## <img src="https://media4.giphy.com/media/s8o96n9sE02bXsiFox/200.webp?cid=ecf05e47wjjtjct9egm780wllasa516600crgepcrc7pssll&ep=v1_stickers_search&rid=200.webp&ct=s" width="50"> Activity On GitHub:
 
